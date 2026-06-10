@@ -2,7 +2,10 @@
 
 **`Software Engineer (Developer/Creator)`**
 
-I'm a Full-stack .NET developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+Motivated Computer Science student with a solid foundation in logical thinking and 
+Object-Oriented Programming. Passionate about problem-solving and eager to apply 
+foundational skills to real-world software development and Artificial Intelligence training 
+programs.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/themustafa3mmar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/themustafa3mmar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafaabdelgawwad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/themustafa3mmar) 
